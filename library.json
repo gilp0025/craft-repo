@@ -55,10 +55,14 @@
     "isbn": "9786585370066",
     "cover": "https://m.media-amazon.com/images/I/61WbnSgI2zL._SL1000_.jpg",
     "status": "to-read",
+    "startedMonth": "",
+    "startedYear": "",
+    "finishedYear": "",
     "tags": [
       "alexandrian",
       "traditional witchcraft"
     ],
+    "language": "portuguese",
     "notes": "",
     "noteDate": null,
     "id": "mrjq2fa4k4o8s",
