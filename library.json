@@ -32,7 +32,9 @@
     "isbn": "1492360813",
     "cover": "",
     "status": "to-read",
-    "tags": [],
+    "tags": [
+      "eclectic"
+    ],
     "notes": "",
     "noteDate": null,
     "id": "mrjpvkospvynv",
