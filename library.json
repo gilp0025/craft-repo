@@ -116,5 +116,22 @@
     "noteDate": null,
     "id": "mrjqomhmaa5r3",
     "dateAdded": "2026-07-13"
+  },
+  {
+    "title": "A Arte dos Indomados",
+    "author": "Nicholaj de Mattos Frisvold",
+    "isbn": "9788569871064",
+    "cover": "https://http2.mlstatic.com/D_NQ_NP_896087-MLB40913230605_022020-O.webp",
+    "status": "to-read",
+    "startedMonth": "",
+    "startedYear": "",
+    "finishedYear": "",
+    "tags": [
+      "thelema"
+    ],
+    "notes": "",
+    "noteDate": null,
+    "id": "mrjrf8zdfo5el",
+    "dateAdded": "2026-07-13"
   }
 ]
