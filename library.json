@@ -19,7 +19,10 @@
     "author": "Alex Saunders",
     "isbn": "9780939708055",
     "cover": "https://covers.openlibrary.org/b/id/13334045-M.jpg",
-    "status": "to-read",
+    "status": "reading",
+    "startedMonth": "",
+    "startedYear": "",
+    "finishedYear": "",
     "tags": [
       "alexandrian",
       "traditional witchcraft"
