@@ -44,7 +44,7 @@
     "dateAdded": "2026-07-13"
   },
   {
-    "title": "O que as Bruxas fazem: RevelaÃ§Ãµes de um coven moderno",
+    "title": "O que as Bruxas fazem: RevelaÃÂ§ÃÂµes de um coven moderno",
     "author": "Janet & Stewart Farrar",
     "isbn": "9786585370066",
     "cover": "https://m.media-amazon.com/images/I/61WbnSgI2zL._SL1000_.jpg",
@@ -62,10 +62,14 @@
     "title": "Uma Moeda para o Barqueiro",
     "author": "Jimahl di Fiosa",
     "isbn": "9781367663626",
-    "cover": "",
+    "cover": "https://m.media-amazon.com/images/I/61DzeZ276mL._SL1360_.jpg",
     "status": "read",
+    "startedMonth": "",
+    "startedYear": "",
+    "finishedYear": "2024",
     "tags": [
-      "alexandrian"
+      "alexandrian",
+      "traditional witchcraft"
     ],
     "notes": "",
     "noteDate": null,
@@ -102,7 +106,7 @@
     "dateAdded": "2026-07-13"
   },
   {
-    "title": "Dicionário dos Demônios",
+    "title": "DicionÃ¡rio dos DemÃ´nios",
     "author": "M. Belanger",
     "isbn": "9786555981506",
     "cover": "https://m.media-amazon.com/images/I/71FTXggQfeL._SL1500_.jpg",
