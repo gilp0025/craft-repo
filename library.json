@@ -47,7 +47,7 @@
     "dateAdded": "2026-07-13"
   },
   {
-    "title": "O que as Bruxas fazem: RevelaÃÂ§ÃÂµes de um coven moderno",
+    "title": "O que as Bruxas fazem: RevelaÃÂÃÂ§ÃÂÃÂµes de um coven moderno",
     "author": "Janet & Stewart Farrar",
     "isbn": "9786585370066",
     "cover": "https://m.media-amazon.com/images/I/61WbnSgI2zL._SL1000_.jpg",
@@ -109,7 +109,7 @@
     "dateAdded": "2026-07-13"
   },
   {
-    "title": "DicionÃ¡rio dos DemÃ´nios",
+    "title": "DicionÃÂ¡rio dos DemÃÂ´nios",
     "author": "M. Belanger",
     "isbn": "9786555981506",
     "cover": "https://m.media-amazon.com/images/I/71FTXggQfeL._SL1500_.jpg",
@@ -173,6 +173,23 @@
     "notes": "",
     "noteDate": null,
     "id": "mrjrmureev8bs",
+    "dateAdded": "2026-07-13"
+  },
+  {
+    "title": "the witch as a psychopomp",
+    "author": "Sharon Day",
+    "isbn": "9781913023096",
+    "cover": "",
+    "status": "read",
+    "startedMonth": "",
+    "startedYear": "",
+    "finishedYear": "2025",
+    "tags": [
+      "alexandrian"
+    ],
+    "notes": "",
+    "noteDate": null,
+    "id": "mrjrseia7xctq",
     "dateAdded": "2026-07-13"
   }
 ]
