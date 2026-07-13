@@ -50,7 +50,7 @@
     "dateAdded": "2026-07-13"
   },
   {
-    "title": "O que as Bruxas fazem: RevelaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂµes de um coven moderno",
+    "title": "O que as Bruxas fazem: RevelaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂµes de um coven moderno",
     "author": "Janet & Stewart Farrar",
     "isbn": "9786585370066",
     "cover": "https://m.media-amazon.com/images/I/61WbnSgI2zL._SL1000_.jpg",
@@ -117,7 +117,7 @@
     "dateAdded": "2026-07-13"
   },
   {
-    "title": "DicionÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡rio dos DemÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ´nios",
+    "title": "DicionÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡rio dos DemÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ´nios",
     "author": "M. Belanger",
     "isbn": "9786555981506",
     "cover": "https://m.media-amazon.com/images/I/71FTXggQfeL._SL1500_.jpg",
@@ -237,7 +237,7 @@
   },
   {
     "title": "Mulheres que Correm com os Lobos (Portuguese Edition)",
-    "author": "Clarissa Pinkola EsteÃÂÃÂs",
+    "author": "Clarissa Pinkola EsteÃÂÃÂÃÂÃÂs",
     "isbn": "9789897541452",
     "cover": "https://covers.openlibrary.org/b/id/13455914-M.jpg",
     "status": "to-read",
@@ -252,7 +252,7 @@
     "dateAdded": "2026-07-13"
   },
   {
-    "title": "CÃÂ­rculos sagrados para mulheres contemporÃÂ¢neas",
+    "title": "CÃÂÃÂ­rculos sagrados para mulheres contemporÃÂÃÂ¢neas",
     "author": "Mirella Faur",
     "isbn": "8531517575",
     "cover": "https://m.media-amazon.com/images/I/61NZ0--SqKL._SY522_.jpg",
@@ -288,7 +288,7 @@
     "dateAdded": "2026-07-13"
   },
   {
-    "title": "TarÃÂ´ MitolÃÂ³gico",
+    "title": "TarÃÂÃÂ´ MitolÃÂÃÂ³gico",
     "author": "Juliete Sharman-Burke",
     "isbn": "8575810367",
     "cover": "https://m.media-amazon.com/images/I/31+gbaSJ8OL._SY445_SX342_ML2_.jpg",
@@ -392,6 +392,24 @@
     "notes": "",
     "noteDate": null,
     "id": "mrjsouipmcejv",
+    "dateAdded": "2026-07-13"
+  },
+  {
+    "title": "Initiation into Witchcraft",
+    "author": "Brian Cain",
+    "isbn": "1733246614",
+    "cover": "https://m.media-amazon.com/images/I/71HJXG8XJZS._SL1491_.jpg",
+    "status": "to-read",
+    "startedMonth": "",
+    "startedYear": "",
+    "finishedYear": "",
+    "tags": [
+      "alexandrian"
+    ],
+    "language": "english",
+    "notes": "",
+    "noteDate": null,
+    "id": "mrjsxiu27uvbp",
     "dateAdded": "2026-07-13"
   }
 ]
