@@ -307,5 +307,23 @@
     "noteDate": null,
     "id": "mrjs8fxnjn82a",
     "dateAdded": "2026-07-13"
+  },
+  {
+    "title": "Arte e Magia do Caos: obra reunida de Austin Osman Spare",
+    "author": "Austin Osman Spare",
+    "isbn": "6588801041",
+    "cover": "https://m.media-amazon.com/images/I/516VpT3d3DL.jpg",
+    "status": "to-read",
+    "startedMonth": "",
+    "startedYear": "",
+    "finishedYear": "",
+    "tags": [
+      "thelema",
+      "chaos magick"
+    ],
+    "notes": "",
+    "noteDate": null,
+    "id": "mrjse8chocloe",
+    "dateAdded": "2026-07-13"
   }
 ]
