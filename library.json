@@ -143,7 +143,9 @@
     "startedMonth": "",
     "startedYear": "",
     "finishedYear": "",
-    "tags": [],
+    "tags": [
+      "thelema"
+    ],
     "notes": "",
     "noteDate": null,
     "id": "mrjrjxc6qgo5z",
