@@ -255,5 +255,23 @@
     "noteDate": null,
     "id": "mrjs3zdcautg6",
     "dateAdded": "2026-07-13"
+  },
+  {
+    "title": "Coven Craft",
+    "author": "Amber K",
+    "isbn": "9781567180183",
+    "cover": "https://covers.openlibrary.org/b/id/808852-M.jpg",
+    "status": "to-read",
+    "startedMonth": "",
+    "startedYear": "",
+    "finishedYear": "",
+    "tags": [
+      "covens",
+      "eclectic"
+    ],
+    "notes": "",
+    "noteDate": null,
+    "id": "mrjs5jpvljya2",
+    "dateAdded": "2026-07-13"
   }
 ]
