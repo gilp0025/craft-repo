@@ -10,5 +10,19 @@
     "noteDate": null,
     "id": "mrjlhcvb8hl1c",
     "dateAdded": "2026-07-13"
+  },
+  {
+    "title": "Alex Sanders Lectures",
+    "author": "Alex Saunders",
+    "isbn": "9780939708055",
+    "cover": "https://covers.openlibrary.org/b/id/13334045-M.jpg",
+    "status": "to-read",
+    "tags": [
+      "witchcraft"
+    ],
+    "notes": "",
+    "noteDate": null,
+    "id": "mrjpt8uhtq9gi",
+    "dateAdded": "2026-07-13"
   }
 ]
