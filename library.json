@@ -47,7 +47,7 @@
     "dateAdded": "2026-07-13"
   },
   {
-    "title": "O que as Bruxas fazem: RevelaÃÂÃÂ§ÃÂÃÂµes de um coven moderno",
+    "title": "O que as Bruxas fazem: RevelaÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂµes de um coven moderno",
     "author": "Janet & Stewart Farrar",
     "isbn": "9786585370066",
     "cover": "https://m.media-amazon.com/images/I/61WbnSgI2zL._SL1000_.jpg",
@@ -109,7 +109,7 @@
     "dateAdded": "2026-07-13"
   },
   {
-    "title": "DicionÃÂ¡rio dos DemÃÂ´nios",
+    "title": "DicionÃÂÃÂ¡rio dos DemÃÂÃÂ´nios",
     "author": "M. Belanger",
     "isbn": "9786555981506",
     "cover": "https://m.media-amazon.com/images/I/71FTXggQfeL._SL1500_.jpg",
@@ -226,7 +226,7 @@
   },
   {
     "title": "Mulheres que Correm com os Lobos (Portuguese Edition)",
-    "author": "Clarissa Pinkola Estés",
+    "author": "Clarissa Pinkola EsteÌs",
     "isbn": "9789897541452",
     "cover": "https://covers.openlibrary.org/b/id/13455914-M.jpg",
     "status": "to-read",
@@ -237,6 +237,23 @@
     "notes": "",
     "noteDate": null,
     "id": "mrjs0pu3tdwxy",
+    "dateAdded": "2026-07-13"
+  },
+  {
+    "title": "Círculos sagrados para mulheres contemporâneas",
+    "author": "Mirella Faur",
+    "isbn": "8531517575",
+    "cover": "https://m.media-amazon.com/images/I/61NZ0--SqKL._SY522_.jpg",
+    "status": "to-read",
+    "startedMonth": "",
+    "startedYear": "",
+    "finishedYear": "",
+    "tags": [
+      "eclectic"
+    ],
+    "notes": "",
+    "noteDate": null,
+    "id": "mrjs3zdcautg6",
     "dateAdded": "2026-07-13"
   }
 ]
