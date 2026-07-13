@@ -151,5 +151,22 @@
     "noteDate": null,
     "id": "mrjrjxc6qgo5z",
     "dateAdded": "2026-07-13"
+  },
+  {
+    "title": "Liber null e psiconauta",
+    "author": "Peter J. Carroll",
+    "isbn": "8569871287",
+    "cover": "https://m.media-amazon.com/images/I/51MF5L4qvAL.jpg",
+    "status": "to-read",
+    "startedMonth": "",
+    "startedYear": "",
+    "finishedYear": "",
+    "tags": [
+      "thelema"
+    ],
+    "notes": "",
+    "noteDate": null,
+    "id": "mrjrmureev8bs",
+    "dateAdded": "2026-07-13"
   }
 ]
