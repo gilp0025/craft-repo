@@ -434,5 +434,24 @@
     "noteDate": null,
     "id": "mrjt6hoe61drv",
     "dateAdded": "2026-07-13"
+  },
+  {
+    "title": "The Witch's Path",
+    "author": "Thorn Mooney",
+    "isbn": "0738763772",
+    "cover": "https://covers.openlibrary.org/b/id/11420934-M.jpg",
+    "status": "to-read",
+    "startedMonth": "",
+    "startedYear": "",
+    "finishedYear": "",
+    "tags": [
+      "traditional witchcraft",
+      "gardnerian"
+    ],
+    "language": "english",
+    "notes": "",
+    "noteDate": null,
+    "id": "mrjtaoxb7utc6",
+    "dateAdded": "2026-07-13"
   }
 ]
