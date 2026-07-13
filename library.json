@@ -237,14 +237,16 @@
   },
   {
     "title": "Mulheres que Correm com os Lobos (Portuguese Edition)",
-    "author": "Clarissa Pinkola EsteÃÂÃÂÃÂÃÂs",
+    "author": "Clarissa Pinkola Estes",
     "isbn": "9789897541452",
     "cover": "https://covers.openlibrary.org/b/id/13455914-M.jpg",
     "status": "to-read",
     "startedMonth": "",
     "startedYear": "",
     "finishedYear": "",
-    "tags": [],
+    "tags": [
+      "sagrado feminino"
+    ],
     "language": "portuguese",
     "notes": "",
     "noteDate": null,
