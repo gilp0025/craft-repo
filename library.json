@@ -363,5 +363,23 @@
     "noteDate": null,
     "id": "mrjsltscya5nd",
     "dateAdded": "2026-07-13"
+  },
+  {
+    "title": "A thousand suns at midnight",
+    "author": "jimahl di fiosa",
+    "isbn": "",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSubbqBpcaorfcY9BRdls7fWj1_He55BEYbDUiJN7RwzQ&s",
+    "status": "to-read",
+    "startedMonth": "",
+    "startedYear": "",
+    "finishedYear": "",
+    "tags": [
+      "alexandrian"
+    ],
+    "language": "english",
+    "notes": "",
+    "noteDate": null,
+    "id": "mrjsouipmcejv",
+    "dateAdded": "2026-07-13"
   }
 ]
