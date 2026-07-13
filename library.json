@@ -71,5 +71,20 @@
     "noteDate": null,
     "id": "mrjqfdi15r4wt",
     "dateAdded": "2026-07-13"
+  },
+  {
+    "title": "Inner Temple Of Witchcraft",
+    "author": "Christopher Penczak",
+    "isbn": "9780738717654",
+    "cover": "https://covers.openlibrary.org/b/id/466600-M.jpg",
+    "status": "to-read",
+    "tags": [
+      "magic",
+      "psychic ability"
+    ],
+    "notes": "",
+    "noteDate": null,
+    "id": "mrjqg18n1rc0f",
+    "dateAdded": "2026-07-13"
   }
 ]
