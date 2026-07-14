@@ -602,5 +602,23 @@
     "noteDate": null,
     "id": "mrl6tqbrq0djw",
     "dateAdded": "2026-07-14"
+  },
+  {
+    "title": "A witch alone",
+    "author": "Marian Green",
+    "isbn": "9781855381124",
+    "cover": "https://covers.openlibrary.org/b/id/906168-M.jpg",
+    "status": "to-read",
+    "startedMonth": "",
+    "startedYear": "",
+    "finishedYear": "",
+    "tags": [
+      "recommended by alexandrian coven"
+    ],
+    "language": "english",
+    "notes": "",
+    "noteDate": null,
+    "id": "mrl6uh0q5ezvd",
+    "dateAdded": "2026-07-14"
   }
 ]
