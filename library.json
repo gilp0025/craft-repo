@@ -5,10 +5,14 @@
     "isbn": "0738768669",
     "cover": "",
     "status": "reading",
+    "startedMonth": "",
+    "startedYear": "",
+    "finishedYear": "",
     "tags": [
-      "gardinerian",
-      "kabbalah"
+      "kabbalah",
+      "gardnerian"
     ],
+    "language": "english",
     "notes": "",
     "noteDate": null,
     "id": "mrjlhcvb8hl1c",
