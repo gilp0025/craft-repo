@@ -490,5 +490,23 @@
     "noteDate": null,
     "id": "mrl6o6vec007v",
     "dateAdded": "2026-07-14"
+  },
+  {
+    "title": "Wicca for beginners",
+    "author": "Thea Sabin",
+    "isbn": "9780738707518",
+    "cover": "https://covers.openlibrary.org/b/id/466835-M.jpg",
+    "status": "to-read",
+    "startedMonth": "",
+    "startedYear": "",
+    "finishedYear": "",
+    "tags": [
+      "recommended by alexandrian coven"
+    ],
+    "language": "english",
+    "notes": "",
+    "noteDate": null,
+    "id": "mrl6p0n16820p",
+    "dateAdded": "2026-07-14"
   }
 ]
