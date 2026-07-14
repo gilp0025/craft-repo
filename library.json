@@ -620,5 +620,23 @@
     "noteDate": null,
     "id": "mrl6uh0q5ezvd",
     "dateAdded": "2026-07-14"
+  },
+  {
+    "title": "Making Magic",
+    "author": "Briana Saussy",
+    "isbn": "1683642481",
+    "cover": "https://covers.openlibrary.org/b/id/10329891-M.jpg",
+    "status": "to-read",
+    "startedMonth": "",
+    "startedYear": "",
+    "finishedYear": "",
+    "tags": [
+      "recommended by alexandrian coven"
+    ],
+    "language": "english",
+    "notes": "",
+    "noteDate": null,
+    "id": "mrl6uxx6bxvog",
+    "dateAdded": "2026-07-14"
   }
 ]
