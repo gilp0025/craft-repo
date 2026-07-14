@@ -695,5 +695,24 @@
     "noteDate": null,
     "id": "mrl6xrmatnynk",
     "dateAdded": "2026-07-14"
+  },
+  {
+    "title": "Mythos",
+    "author": "Stephen Fry",
+    "isbn": "140593431X",
+    "cover": "https://covers.openlibrary.org/b/id/8238803-M.jpg",
+    "status": "to-read",
+    "startedMonth": "",
+    "startedYear": "",
+    "finishedYear": "",
+    "tags": [
+      "mythology",
+      "recomended by alexandrian coven"
+    ],
+    "language": "english",
+    "notes": "",
+    "noteDate": null,
+    "id": "mrl6yl8x2gga4",
+    "dateAdded": "2026-07-14"
   }
 ]
