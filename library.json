@@ -508,5 +508,24 @@
     "noteDate": null,
     "id": "mrl6p0n16820p",
     "dateAdded": "2026-07-14"
+  },
+  {
+    "title": "Traditional Wicca",
+    "author": "Thorn Mooney",
+    "isbn": "0738755206",
+    "cover": "https://covers.openlibrary.org/b/id/8840425-M.jpg",
+    "status": "read",
+    "startedMonth": "",
+    "startedYear": "",
+    "finishedYear": "",
+    "tags": [
+      "gardnerian",
+      "recommended by alexandrian coven"
+    ],
+    "language": "english",
+    "notes": "",
+    "noteDate": null,
+    "id": "mrl6q2o8tx1a5",
+    "dateAdded": "2026-07-14"
   }
 ]
