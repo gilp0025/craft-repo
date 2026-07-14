@@ -546,5 +546,24 @@
     "noteDate": null,
     "id": "mrl6qvy5zz2cq",
     "dateAdded": "2026-07-14"
+  },
+  {
+    "title": "High Magic's Aid",
+    "author": "Gerald Gardner",
+    "isbn": "9780963065780",
+    "cover": "https://covers.openlibrary.org/b/id/4815169-M.jpg",
+    "status": "to-read",
+    "startedMonth": "",
+    "startedYear": "",
+    "finishedYear": "",
+    "tags": [
+      "gardnerian",
+      "recommended by alexandrian coven"
+    ],
+    "language": "english",
+    "notes": "",
+    "noteDate": null,
+    "id": "mrl6rtme2b3rf",
+    "dateAdded": "2026-07-14"
   }
 ]
