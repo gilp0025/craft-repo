@@ -638,5 +638,24 @@
     "noteDate": null,
     "id": "mrl6uxx6bxvog",
     "dateAdded": "2026-07-14"
+  },
+  {
+    "title": "Mythology",
+    "author": "Edith Hamilton, Jim Tierney",
+    "isbn": "9780316438520",
+    "cover": "https://covers.openlibrary.org/b/id/10105616-M.jpg",
+    "status": "to-read",
+    "startedMonth": "",
+    "startedYear": "",
+    "finishedYear": "",
+    "tags": [
+      "mythology",
+      "recommended by alexandrian coven"
+    ],
+    "language": "english",
+    "notes": "",
+    "noteDate": null,
+    "id": "mrl6vrk3i6rzs",
+    "dateAdded": "2026-07-14"
   }
 ]
