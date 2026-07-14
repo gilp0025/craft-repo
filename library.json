@@ -657,5 +657,24 @@
     "noteDate": null,
     "id": "mrl6vrk3i6rzs",
     "dateAdded": "2026-07-14"
+  },
+  {
+    "title": "The gods of the Greeks",
+    "author": "Karl Kerényi, Carl Kerenyi",
+    "isbn": "9780500270486",
+    "cover": "https://covers.openlibrary.org/b/id/6505722-M.jpg",
+    "status": "to-read",
+    "startedMonth": "",
+    "startedYear": "",
+    "finishedYear": "",
+    "tags": [
+      "mythology",
+      "recomended by alexandrian coven"
+    ],
+    "language": "english",
+    "notes": "",
+    "noteDate": null,
+    "id": "mrl6wu64nbp7l",
+    "dateAdded": "2026-07-14"
   }
 ]
