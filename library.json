@@ -565,5 +565,24 @@
     "noteDate": null,
     "id": "mrl6rtme2b3rf",
     "dateAdded": "2026-07-14"
+  },
+  {
+    "title": "Witchcraft today",
+    "author": "Gerald B. Gardner, Gerald Brosseau Gardner",
+    "isbn": "9780806500027",
+    "cover": "https://covers.openlibrary.org/b/id/6980296-M.jpg",
+    "status": "to-read",
+    "startedMonth": "",
+    "startedYear": "",
+    "finishedYear": "",
+    "tags": [
+      "gardnerian",
+      "recommended by alexandrian coven"
+    ],
+    "language": "english",
+    "notes": "",
+    "noteDate": null,
+    "id": "mrl6sjixjxlap",
+    "dateAdded": "2026-07-14"
   }
 ]
