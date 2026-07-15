@@ -754,5 +754,23 @@
     "noteDate": null,
     "id": "mrmhhwf32qxww",
     "dateAdded": "2026-07-15"
+  },
+  {
+    "title": "Moon magic",
+    "author": "Violet M. Firth (Dion Fortune)",
+    "isbn": "9780352397041",
+    "cover": "https://covers.openlibrary.org/b/id/4241046-M.jpg",
+    "status": "to-read",
+    "startedMonth": "",
+    "startedYear": "",
+    "finishedYear": "",
+    "tags": [
+      "recommended by alexandrian coven"
+    ],
+    "language": "english",
+    "notes": "",
+    "noteDate": null,
+    "id": "mrmhisekld0co",
+    "dateAdded": "2026-07-15"
   }
 ]
