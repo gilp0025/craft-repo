@@ -718,5 +718,23 @@
     "noteDate": null,
     "id": "mrl6yl8x2gga4",
     "dateAdded": "2026-07-14"
+  },
+  {
+    "title": "Fire Child",
+    "author": "Maxine Sanders",
+    "isbn": "9781869928971",
+    "cover": "https://covers.openlibrary.org/b/id/3018350-M.jpg",
+    "status": "dropped",
+    "startedMonth": "",
+    "startedYear": "",
+    "finishedYear": "",
+    "tags": [
+      "alexandrian"
+    ],
+    "language": "english",
+    "notes": "",
+    "noteDate": null,
+    "id": "mrmhgj7cqho7k",
+    "dateAdded": "2026-07-15"
   }
 ]
