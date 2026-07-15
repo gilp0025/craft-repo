@@ -810,5 +810,24 @@
     "noteDate": null,
     "id": "mrmhkrvtyev4f",
     "dateAdded": "2026-07-15"
+  },
+  {
+    "title": "Maxine: the Witch Queen",
+    "author": "Maxine Sanders",
+    "isbn": "9780352397386",
+    "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1598320794i/9831997.jpg",
+    "status": "to-read",
+    "startedMonth": "",
+    "startedYear": "",
+    "finishedYear": "",
+    "tags": [
+      "alexandrian",
+      "recommended by alexandrian coven"
+    ],
+    "language": "english",
+    "notes": "",
+    "noteDate": null,
+    "id": "mrmho2jat66ti",
+    "dateAdded": "2026-07-15"
   }
 ]
