@@ -772,5 +772,24 @@
     "noteDate": null,
     "id": "mrmhisekld0co",
     "dateAdded": "2026-07-15"
+  },
+  {
+    "title": "The Mystical Qabalah",
+    "author": "Violet M. Firth (Dion Fortune), Judika Illes, Stuart R. Harrop",
+    "isbn": "9780850303353",
+    "cover": "https://covers.openlibrary.org/b/id/670682-M.jpg",
+    "status": "to-read",
+    "startedMonth": "",
+    "startedYear": "",
+    "finishedYear": "",
+    "tags": [
+      "kabbalah",
+      "recommended by alexandian coven"
+    ],
+    "language": "english",
+    "notes": "",
+    "noteDate": null,
+    "id": "mrmhjfh4d565h",
+    "dateAdded": "2026-07-15"
   }
 ]
