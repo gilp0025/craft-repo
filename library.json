@@ -791,5 +791,24 @@
     "noteDate": null,
     "id": "mrmhjfh4d565h",
     "dateAdded": "2026-07-15"
+  },
+  {
+    "title": "King of the witches",
+    "author": "June Johns",
+    "isbn": "9780330026390",
+    "cover": "https://covers.openlibrary.org/b/id/8404409-M.jpg",
+    "status": "to-read",
+    "startedMonth": "",
+    "startedYear": "",
+    "finishedYear": "",
+    "tags": [
+      "alexandrian",
+      "recommended by alexandrian coven"
+    ],
+    "language": "english",
+    "notes": "",
+    "noteDate": null,
+    "id": "mrmhkrvtyev4f",
+    "dateAdded": "2026-07-15"
   }
 ]
