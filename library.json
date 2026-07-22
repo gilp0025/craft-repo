@@ -829,5 +829,23 @@
     "noteDate": null,
     "id": "mrmho2jat66ti",
     "dateAdded": "2026-07-15"
+  },
+  {
+    "title": "Zanoni",
+    "author": "Edward Bulwer Lytton, Baron Lytton",
+    "isbn": "1511753552",
+    "cover": "https://covers.openlibrary.org/b/id/8158074-M.jpg",
+    "status": "to-read",
+    "startedMonth": "",
+    "startedYear": "",
+    "finishedYear": "",
+    "tags": [
+      "fiction"
+    ],
+    "language": "english",
+    "notes": "",
+    "noteDate": null,
+    "id": "mrw660ptn4v8l",
+    "dateAdded": "2026-07-22"
   }
 ]
