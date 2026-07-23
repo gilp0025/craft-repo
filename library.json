@@ -1001,5 +1001,23 @@
     "noteDate": null,
     "id": "mrxi7qecaz9rv",
     "dateAdded": "2026-07-23"
+  },
+  {
+    "title": "Encyclopedia of Celtic Wisdom",
+    "author": "Caitlin Matthews, John Matthews",
+    "isbn": "1852307862",
+    "cover": "https://covers.openlibrary.org/b/id/899898-M.jpg",
+    "status": "to-read",
+    "startedMonth": "",
+    "startedYear": "",
+    "finishedYear": "",
+    "tags": [
+      "recommended by alexandrian coven"
+    ],
+    "language": "english",
+    "notes": "",
+    "noteDate": null,
+    "id": "mrxi8avuhnekp",
+    "dateAdded": "2026-07-23"
   }
 ]
