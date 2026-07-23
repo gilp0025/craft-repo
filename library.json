@@ -1077,5 +1077,23 @@
     "noteDate": null,
     "id": "mrxia427f89fd",
     "dateAdded": "2026-07-23"
+  },
+  {
+    "title": "Aradia",
+    "author": "Charles Godfrey Leland",
+    "isbn": "1602063028",
+    "cover": "https://covers.openlibrary.org/b/id/707684-M.jpg",
+    "status": "read",
+    "startedMonth": "",
+    "startedYear": "",
+    "finishedYear": "unknown",
+    "tags": [
+      "mythology"
+    ],
+    "language": "english",
+    "notes": "",
+    "noteDate": null,
+    "id": "mrxiarfwk3uis",
+    "dateAdded": "2026-07-23"
   }
 ]
