@@ -983,5 +983,23 @@
     "noteDate": null,
     "id": "mrxi657g5nbjb",
     "dateAdded": "2026-07-23"
+  },
+  {
+    "title": "The mysteries of Druidry",
+    "author": "Brendan Cathbad Myers",
+    "isbn": "9781564148780",
+    "cover": "https://covers.openlibrary.org/b/id/799902-M.jpg",
+    "status": "to-read",
+    "startedMonth": "",
+    "startedYear": "",
+    "finishedYear": "",
+    "tags": [
+      "druidsm"
+    ],
+    "language": "english",
+    "notes": "",
+    "noteDate": null,
+    "id": "mrxi7qecaz9rv",
+    "dateAdded": "2026-07-23"
   }
 ]
