@@ -926,5 +926,24 @@
     "noteDate": null,
     "id": "mrxi41xy14emn",
     "dateAdded": "2026-07-23"
+  },
+  {
+    "title": "Bonewits's Essential Guide to Druidism",
+    "author": "Philip Emmons Isaac Bonewits",
+    "isbn": "0806527102",
+    "cover": "https://covers.openlibrary.org/b/id/585809-M.jpg",
+    "status": "to-read",
+    "startedMonth": "",
+    "startedYear": "",
+    "finishedYear": "",
+    "tags": [
+      "recommended by alexandrian coven",
+      "mythology"
+    ],
+    "language": "english",
+    "notes": "",
+    "noteDate": null,
+    "id": "mrxi4p3aayq81",
+    "dateAdded": "2026-07-23"
   }
 ]
