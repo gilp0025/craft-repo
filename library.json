@@ -1133,5 +1133,25 @@
     "noteDate": null,
     "id": "mrxide1uhaa4c",
     "dateAdded": "2026-07-23"
+  },
+  {
+    "title": "Witches Were for Hanging",
+    "author": "Patricia Crowther",
+    "isbn": "9781892137074",
+    "cover": "https://covers.openlibrary.org/b/id/941050-M.jpg",
+    "status": "to-read",
+    "startedMonth": "",
+    "startedYear": "",
+    "finishedYear": "",
+    "tags": [
+      "recommended by alexandrian coven",
+      "alexandrian",
+      "gardnerian"
+    ],
+    "language": "english",
+    "notes": "",
+    "noteDate": null,
+    "id": "mrxie6mlixjv8",
+    "dateAdded": "2026-07-23"
   }
 ]
