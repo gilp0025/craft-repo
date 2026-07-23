@@ -1153,5 +1153,23 @@
     "noteDate": null,
     "id": "mrxie6mlixjv8",
     "dateAdded": "2026-07-23"
+  },
+  {
+    "title": "American Gods",
+    "author": "Neil Gaiman",
+    "isbn": "0613913388",
+    "cover": "https://covers.openlibrary.org/b/id/8494659-M.jpg",
+    "status": "read",
+    "startedMonth": "",
+    "startedYear": "",
+    "finishedYear": "unknown",
+    "tags": [
+      "fiction"
+    ],
+    "language": "english",
+    "notes": "",
+    "noteDate": null,
+    "id": "mrxiexzzsdqx1",
+    "dateAdded": "2026-07-23"
   }
 ]
