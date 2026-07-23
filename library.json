@@ -867,5 +867,24 @@
     "noteDate": null,
     "id": "mrxi0ls318dgx",
     "dateAdded": "2026-07-23"
+  },
+  {
+    "title": "The witches Qabala",
+    "author": "Ellen Cannon Reed",
+    "isbn": "0875426662",
+    "cover": "https://covers.openlibrary.org/b/id/670847-M.jpg",
+    "status": "to-read",
+    "startedMonth": "",
+    "startedYear": "",
+    "finishedYear": "",
+    "tags": [
+      "kabbalah",
+      "recommended by alexandrian coven"
+    ],
+    "language": "english",
+    "notes": "",
+    "noteDate": null,
+    "id": "mrxi2847r7x8o",
+    "dateAdded": "2026-07-23"
   }
 ]
