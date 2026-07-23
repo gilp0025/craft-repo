@@ -848,5 +848,24 @@
     "noteDate": null,
     "id": "mrw660ptn4v8l",
     "dateAdded": "2026-07-22"
+  },
+  {
+    "title": "A Woman's Kabbalah",
+    "author": "Vivianne Crowley",
+    "isbn": "1446359255",
+    "cover": "https://covers.openlibrary.org/b/id/1359451-M.jpg",
+    "status": "to-read",
+    "startedMonth": "",
+    "startedYear": "",
+    "finishedYear": "",
+    "tags": [
+      "kabbalah",
+      "recommended by alexandrian coven"
+    ],
+    "language": "english",
+    "notes": "",
+    "noteDate": null,
+    "id": "mrxi0ls318dgx",
+    "dateAdded": "2026-07-23"
   }
 ]
