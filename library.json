@@ -964,5 +964,24 @@
     "noteDate": null,
     "id": "mrxi5f929j000",
     "dateAdded": "2026-07-23"
+  },
+  {
+    "title": "The tree of life",
+    "author": "Israel Regardie",
+    "isbn": "9780877280002",
+    "cover": "https://covers.openlibrary.org/b/id/808903-M.jpg",
+    "status": "to-read",
+    "startedMonth": "",
+    "startedYear": "",
+    "finishedYear": "",
+    "tags": [
+      "recommended by alexandrian coven",
+      "kabbalah"
+    ],
+    "language": "english",
+    "notes": "",
+    "noteDate": null,
+    "id": "mrxi657g5nbjb",
+    "dateAdded": "2026-07-23"
   }
 ]
