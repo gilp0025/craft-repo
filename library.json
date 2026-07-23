@@ -945,5 +945,24 @@
     "noteDate": null,
     "id": "mrxi4p3aayq81",
     "dateAdded": "2026-07-23"
+  },
+  {
+    "title": "Celtic gods and heroes",
+    "author": "Marie-Louise Sjoestedt",
+    "isbn": "9780486414416",
+    "cover": "https://covers.openlibrary.org/b/id/313112-M.jpg",
+    "status": "to-read",
+    "startedMonth": "",
+    "startedYear": "",
+    "finishedYear": "",
+    "tags": [
+      "celts",
+      "mythology"
+    ],
+    "language": "english",
+    "notes": "",
+    "noteDate": null,
+    "id": "mrxi5f929j000",
+    "dateAdded": "2026-07-23"
   }
 ]
