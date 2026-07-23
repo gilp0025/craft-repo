@@ -1039,5 +1039,24 @@
     "noteDate": null,
     "id": "mrxi8w61oile8",
     "dateAdded": "2026-07-23"
+  },
+  {
+    "title": "A Goddess Arrives",
+    "author": "Gerald B. Gardner",
+    "isbn": "1928104371",
+    "cover": "https://covers.openlibrary.org/b/id/4841049-M.jpg",
+    "status": "to-read",
+    "startedMonth": "",
+    "startedYear": "",
+    "finishedYear": "",
+    "tags": [
+      "fiction",
+      "gardnerian"
+    ],
+    "language": "english",
+    "notes": "",
+    "noteDate": null,
+    "id": "mrxi9lwaq13g1",
+    "dateAdded": "2026-07-23"
   }
 ]
