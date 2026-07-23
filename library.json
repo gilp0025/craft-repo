@@ -906,5 +906,25 @@
     "noteDate": null,
     "id": "mrxi2yuc8cbdo",
     "dateAdded": "2026-07-23"
+  },
+  {
+    "title": "Anam Cara",
+    "author": "O'Donohue, John",
+    "isbn": "9780060929435",
+    "cover": "https://covers.openlibrary.org/b/id/40509-M.jpg",
+    "status": "to-read",
+    "startedMonth": "",
+    "startedYear": "",
+    "finishedYear": "",
+    "tags": [
+      "mythology",
+      "celts",
+      "recommended by alexandrian coven"
+    ],
+    "language": "english",
+    "notes": "",
+    "noteDate": null,
+    "id": "mrxi41xy14emn",
+    "dateAdded": "2026-07-23"
   }
 ]
